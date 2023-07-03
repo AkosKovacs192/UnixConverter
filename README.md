@@ -1,7 +1,7 @@
 # UnixConverter
 Convert DateTime, DateOnly, and time range to Unix timestamp.
 
-Small project, just start going with github publishing. 
+Small project, just to start going with github publishing. 
 
 # Functions
 
